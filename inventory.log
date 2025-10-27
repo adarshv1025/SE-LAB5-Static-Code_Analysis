@@ -1,0 +1,8 @@
+2025-10-27 06:25:01,852 - INFO - Added 10 of apple
+2025-10-27 06:25:01,852 - INFO - Added 2 of banana
+2025-10-27 06:25:01,852 - INFO - Added 1 of orange
+2025-10-27 06:25:01,852 - INFO - Removed 3 of apple
+2025-10-27 06:25:01,852 - WARNING - Attempted to remove non-existent item: grapes
+2025-10-27 06:25:01,853 - INFO - Saved data to inventory.json
+2025-10-27 06:25:01,853 - INFO - Loaded data from inventory.json
+2025-10-27 06:25:01,853 - INFO - Program executed successfully.
